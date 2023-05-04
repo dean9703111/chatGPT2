@@ -42,12 +42,12 @@ Disallow:
 
 - macOS
     ```
-    pip3 install requests bs4
+    pip3 install requests beautifulsoup4
     python3 crawler.py
     ```
 - Windows
     ```
-    pip install requests bs4
+    pip install requests beautifulsoup4
     python crawler.py
     ```
 
