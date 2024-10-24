@@ -1,4 +1,4 @@
-# ChatGPT 與 AI 繪圖效率大師（第二版）
+# ChatGPT 與 AI 繪圖效率大師（[此書已有新版](https://www.tenlong.com.tw/products/9786263339989)）
 
 ## 添加 GPT-4、Bing Chat、ChatGPT plugins 等全新章節，從日常到職場全方位應用，打造 AI 極簡新生活！
 
